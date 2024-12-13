@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "oppo f21 pro",
+      "brand": "oppo",
+      "category": "Phones",
+      "price": "666",
+      "description": "good product",
+      "createdAt": "Fri Dec 06"
+    },
+    {
+      "id": "2",
+      "name": "oppo f21 pro",
+      "brand": "oppo",
+      "category": "Phones",
+      "price": "539",
+      "description": "good product",
+      "createdAt": "Fri Dec 06"
+    },
+    {
+      "id": "3",
+      "name": "oppo f21 pro",
+      "brand": "oppo",
+      "category": "Phones",
+      "price": "734",
+      "description": "good product",
+      "createdAt": "Fri Dec 06"
+    },
+    {
+      "id": "4",
+      "name": "vevo y25",
+      "brand": "Vevo",
+      "category": "Phones",
+      "price": "493",
+      "description": "good product",
+      "createdAt": "Sun Dec 08"
+    },
+    {
+      "id": "5",
+      "name": "samsung 956g",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "723",
+      "description": "good product",
+      "createdAt": "Sun Dec 08"
+    },
+    {
+      "id": "6",
+      "name": "redmis23",
+      "brand": "redmi",
+      "category": "Phones",
+      "price": "350",
+      "description": "good",
+      "createdAt": "Mon Dec 09"
+    }
+  ]
+}
